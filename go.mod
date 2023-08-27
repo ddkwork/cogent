@@ -1,4 +1,4 @@
-module goki.dev/gide
+module github.com/goki/gide
 
 go 1.18
 
